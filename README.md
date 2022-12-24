@@ -21,3 +21,5 @@ APIs exposed:
     }
     ```
   - Description: send email to my personal id
+- GET /test
+  - Description: test API to check if backend is working fine.
