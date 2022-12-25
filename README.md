@@ -41,3 +41,7 @@ SSL/TLS has been set up on EC2 for subdomain ec2.rhish.in using the following re
 - https://medium.com/@michal_4609/amazon-ec2-ssl-from-lets-encrypt-in-spring-boot-application-e29cf9eec02
 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-ami.html
 - https://certbot.eff.org/instructions?ws=other&os=centosrhel7
+
+Domains/urls set for frontend and backend via GoDaddy are:
+- rhish.in
+- ec2.rhish.in:8443
